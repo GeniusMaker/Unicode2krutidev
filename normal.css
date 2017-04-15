@@ -1,0 +1,57 @@
+
+body{background: linear-gradient(to bottom right, #66CCCC, #0099FF);}
+
+.Header {  font-family: Arial, Helvetica, sans-serif; font-size: 20pt; 
+
+ background: linear-gradient(to bottom right, #66CCCC, #0099FF);}
+
+
+.ColHeader {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #FFFFFF; background-color: #666666; font-weight: bold}
+.OddRow {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #000000; background-color: #E4E4E4}
+.EvenRow { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #000000; background-color: #B9B9B9}
+.smalllist {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal; color: #000000; background-color: #ffcc33}
+.h1 {  font-family: Arial, Helvetica, sans-serif; font-size: 12pt; font-style: normal; font-weight: bold; font-variant: normal; color: #CC6600; line-height: 20pt}
+.b1 {  font-family: Arial, Helvetica, sans-serif; font-size: 12pt; font-style: normal; font-weight: normal; color: #0000FF; text-align: justify}
+.Header1 { font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: #660000; font-weight: bold; text-transform: none; font-variant: normal; font-style: normal}
+.Items {COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-DECORATION: none}
+.Items1 {  font-family: Arial, Helvetica, sans-serif; font-size: 12pt; font-weight: bold; color: #000000; background-color: #ffcc33}
+.Items2 {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; color: #000000; background-color: #FFFFFF}
+.BottomMenu {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; color: #000000}
+.Header2 { font-family: Arial, Helvetica, sans-serif; font-size: 12pt; background-color: #66CCFF; color: #FF3300; font-weight: bold; text-transform: none; font-variant: normal; font-style: normal }
+.ColHeader1 { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #FFFFFF; background-color: #999999; font-weight: normal}
+.Items3 { COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-DECORATION: none }
+.bodytext {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #000000; text-align: justify}
+.h2 { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-style: normal; font-weight: bold; font-variant: normal; background-color: #FFCC99; color: #003333}
+.bodytext1 { font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: #FF3333; text-align: justify }
+.MenuTable {  font-family: Arial, Helvetica, sans-serif; font-size: 14pt; color: #0080FF; filter: BlendTrans(Duration=10); border-color: #008000 black black}
+.MenuTable1 { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #0080FF;  background-color: #CCFFCC }
+a.stl1:link{text-decoration:underline;color:#0000FF;; font-family: Arial, Helvetica, sans-serif; font-size: 12pt}
+a.stl1:visited{color:#0000FF;; font-family: Arial, Helvetica, sans-serif; font-size: 12pt}
+a.stl1:hover{text-decoration:underline;color:red;}
+
+a.stl2:link{text-decoration:none;color:#000000;; font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: bold}
+a.stl2:visited{text-decoration:none;color:#000000;; font-family: Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; line-height: 14pt}
+a.stl2:hover{text-decoration:none;color:#FF0033;}
+
+a.stl3:link{text-decoration:none;color:#0080FF;}
+a.stl3:visited{text-decoration:none;color:#0080FF;}
+a.stl3:hover{text-decoration:none;color:#FF3333;; font-family: Arial, Helvetica, sans-serif; font-size: 12pt; line-height: 14pt}
+
+a.stl4:link{color:#3333ff;; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-style: normal}
+a.stl4:visited{color:#3333ff;; font-family: Arial, Helvetica, sans-serif; font-size: 9pt}
+a.stl4:hover{text-decoration:underline overline;color:#3333FF;; background-color: #FFFFCC;}
+.Header1Hindi { font-family: "Kruti Dev 010"; font-size: 18pt; background-color: #FFffff; color: #FF3333; font-weight: bold; text-transform: none; font-variant: normal; font-style: normal }
+.h1Hindi { font-family: "Kruti Dev 010"; font-size: 14pt; font-style: normal; font-weight: bold; font-variant: normal; background-color: #FFCCCC; color: #CC6600; line-height: 20pt }
+.bodytextHindi { font-family: "Kruti Dev 010"; font-size: 14pt; color: #000000; text-align: left; font-style: normal; text-decoration: none}
+.stl1hindi { text-decoration:none; ; font-family: "Kruti Dev 010", "Kruti Dev 040"; font-size: 16pt}
+.ColHeader2 { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #000000; background-color: #FFCC99; font-weight: bold }
+.Row { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #000000; background-color: #FFFFCC}
+.bodytext2 { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #660066}
+a.stl5:link{text-decoration:none;color:#3333FF;}
+a.stl5:visited{text-decoration:none;color:#3333FF;}
+a.stl5:hover{text-decoration:none;color:red;}
+.ColHeader2Hindi { font-family: "Kruti Dev 010", "Kruti Dev 040"; font-size: 14pt; color: #000000; background-color: #FFCC99; font-weight: bold }
+.MenuTableHindi { font-family: "Kruti Dev 010", "Kruti Dev 040"; font-size: 14pt; color: #3333FF; filter: BlendTrans(Duration=10); border-color: #008000 black black; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; background-color: #CCFFCC ; font-weight: bold}
+.MenuTable2 { font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: #0080FF; background-color: #CCFFCC ; font-weight: bold}
+.RowHindi { font-family: "Kruti Dev 010", "Kruti Dev 040"; font-size: 12pt; color: #000000; background-color: #FFFFCC }
+body {  margin-top: 1px; margin-left: 6px}
